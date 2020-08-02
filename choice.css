@@ -18,9 +18,18 @@ body {
 
 .main_text {
     color: darkgoldenrod;
-    font-size: large;
+    font-size: larger;
+    text-align: justify;
+    margin: 150px;
+    margin-top: 0px;
+    margin-bottom: 0px;
 
 }
 .button {
     color: darkgoldenrod;
+    margin-left: 47%;
+    height: 250px;
+    width: 250px;
+    padding: 0px;
+
 }
